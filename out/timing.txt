@@ -1,0 +1,40 @@
+insertionsort	383 ms.		50000	[OK]
+mergesort	33 ms.		50000	[OK]
+quicksort	38 ms.		50000	[OK]
+----------------------------------------------------
+insertionsort	1384 ms.	100000	[OK]
+mergesort	16 ms.		100000	[OK]
+quicksort	17 ms.		100000	[OK]
+----------------------------------------------------
+insertionsort	2848 ms.	150000	[OK]
+mergesort	18 ms.		150000	[OK]
+quicksort	33 ms.		150000	[OK]
+----------------------------------------------------
+insertionsort	5462 ms.	200000	[OK]
+mergesort	27 ms.		200000	[OK]
+quicksort	61 ms.		200000	[OK]
+----------------------------------------------------
+insertionsort	11032 ms.	250000	[OK]
+mergesort	76 ms.		250000	[OK]
+quicksort	128 ms.		250000	[OK]
+----------------------------------------------------
+insertionsort	13527 ms.	300000	[OK]
+mergesort	49 ms.		300000	[OK]
+quicksort	121 ms.		300000	[OK]
+----------------------------------------------------
+insertionsort	14725 ms.	350000	[OK]
+mergesort	50 ms.		350000	[OK]
+quicksort	157 ms.		350000	[OK]
+----------------------------------------------------
+insertionsort	19305 ms.	400000	[OK]
+mergesort	50 ms.		400000	[OK]
+quicksort	207 ms.		400000	[OK]
+----------------------------------------------------
+insertionsort	24917 ms.	450000	[OK]
+mergesort	42 ms.		450000	[OK]
+quicksort	258 ms.		450000	[OK]
+----------------------------------------------------
+insertionsort	30909 ms.	500000	[OK]
+mergesort	48 ms.		500000	[OK]
+quicksort	320 ms.		500000	[OK]
+----------------------------------------------------

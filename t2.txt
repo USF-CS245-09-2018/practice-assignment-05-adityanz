@@ -1,0 +1,43 @@
+/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63669:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Volumes/GoogleDrive/My Drive/Sophomore S1/CS245/GitHub Practice/practice-assignment-05-adityanz/out/production/practice-assignment-05-adityanz" Practice05Test
+insertionsort	249 ms.		50000	[OK]
+mergesort	15 ms.		50000	[OK]
+quicksort	17 ms.		50000	[OK]
+----------------------------------------------------
+insertionsort	982 ms.		100000	[OK]
+mergesort	15 ms.		100000	[OK]
+quicksort	18 ms.		100000	[OK]
+----------------------------------------------------
+insertionsort	2962 ms.	150000	[OK]
+mergesort	18 ms.		150000	[OK]
+quicksort	38 ms.		150000	[OK]
+----------------------------------------------------
+insertionsort	5294 ms.	200000	[OK]
+mergesort	27 ms.		200000	[OK]
+quicksort	61 ms.		200000	[OK]
+----------------------------------------------------
+insertionsort	7748 ms.	250000	[OK]
+mergesort	36 ms.		250000	[OK]
+quicksort	84 ms.		250000	[OK]
+----------------------------------------------------
+insertionsort	10834 ms.	300000	[OK]
+mergesort	46 ms.		300000	[OK]
+quicksort	117 ms.		300000	[OK]
+----------------------------------------------------
+insertionsort	14776 ms.	350000	[OK]
+mergesort	51 ms.		350000	[OK]
+quicksort	159 ms.		350000	[OK]
+----------------------------------------------------
+insertionsort	19360 ms.	400000	[OK]
+mergesort	53 ms.		400000	[OK]
+quicksort	206 ms.		400000	[OK]
+----------------------------------------------------
+insertionsort	24456 ms.	450000	[OK]
+mergesort	44 ms.		450000	[OK]
+quicksort	257 ms.		450000	[OK]
+----------------------------------------------------
+insertionsort	31436 ms.	500000	[OK]
+mergesort	52 ms.		500000	[OK]
+quicksort	310 ms.		500000	[OK]
+----------------------------------------------------
+
+Process finished with exit code 0
